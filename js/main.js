@@ -1,6 +1,6 @@
 /* ============================================================
    Real Estate Investor Tax Playbook -- Main JS
-   AE Tax Advisors | realestatetaxbook.com
+   AE Tax Advisors | therealestatetaxbook.com
    ============================================================ */
 
 (function () {

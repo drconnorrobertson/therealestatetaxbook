@@ -9,7 +9,7 @@ Part of the Entity Tax Strategy series:
 
 ## Deployment
 
-Deployed on Vercel at [realestatetaxbook.com](https://realestatetaxbook.com).
+Deployed on Vercel at [therealestatetaxbook.com](https://therealestatetaxbook.com).
 
 ## Stack
 
