@@ -37,6 +37,7 @@
 html {
   scroll-behavior: smooth;
   font-size: 16px;
+  overflow-x: hidden;
 }
 
 body {
@@ -900,6 +901,9 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 8px;
 }
 
+/* Responsive utilities */
+.table-wrapper { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+
 /* --- Responsive --- */
 @media (max-width: 960px) {
   .hero-inner {
@@ -1013,6 +1017,20 @@ h1, h2, h3, h4, h5, h6 {
   .page-hero h1 {
     font-size: 32px;
   }
+
+  /* Blog post responsive */
+  .post-cta { padding: 1.25rem !important; }
+  .blog-hero { padding: 3rem 0 !important; }
+
+  /* Table responsive */
+  table { min-width: 500px; }
+
+  /* Buy box mobile */
+  .buy-box { padding: 28px !important; }
+  .buy-box .price { font-size: 36px !important; }
+
+  /* Word wrap for long text */
+  .post-content, .container { overflow-wrap: break-word; word-wrap: break-word; }
 }
 
 @media (max-width: 480px) {
@@ -1043,4 +1061,9 @@ h1, h2, h3, h4, h5, h6 {
   .book-cover-subtitle {
     font-size: 11px;
   }
+
+  .post-cta { padding: 1rem !important; }
+  .blog-hero { padding: 2.5rem 0 !important; }
+  .buy-box { padding: 20px !important; }
+  .buy-box .price { font-size: 28px !important; }
 }
