@@ -1,0 +1,20 @@
+# Real Estate Investor Tax Playbook
+
+Published by AE Tax Advisors. Original companion education with hypothetical examples. Not book excerpts, independent reviews, audited outcomes or personalized tax advice.
+
+## Companion index
+
+- [Cost Segregation: Model the Deduction and the Usable Loss Separately](https://www.therealestatetaxbook.com/reading-guides/cost-segregation-current-loss-model): Cost segregation changes depreciation timing, but a larger deduction is not the same as a larger current tax benefit. Follow a property example through loss usability.
+- [Short-Term Rental Participation: What the Records Need to Show](https://www.therealestatetaxbook.com/reading-guides/short-term-rental-participation-records): A short guest stay does not by itself establish a deductible nonpassive loss. This guide separates rental classification, material participation and supporting records.
+- [Rental Losses and the 2026 Excess Business Loss Threshold](https://www.therealestatetaxbook.com/reading-guides/rental-loss-excess-business-loss-2026): A nonpassive rental loss can still be limited under Section 461(l). See how the 2026 threshold fits a large real estate depreciation deduction.
+- [Rental Repairs or Improvements: Build the File Before Claiming a Deduction](https://www.therealestatetaxbook.com/reading-guides/rental-repair-capital-improvement-file): A contractor invoice can include deductible repairs and capital improvements. Learn how to document the work, costs and treatment before filing a rental return.
+- [Rental Placed-in-Service Dates: Evidence Beyond the Closing Statement](https://www.therealestatetaxbook.com/reading-guides/placed-in-service-rental-evidence): Buying a property and placing it in service are different events. Build an evidence file that supports when depreciation begins for a rental asset.
+- [Rental Property Sale Planning: Depreciation and the Exit Model](https://www.therealestatetaxbook.com/reading-guides/rental-sale-depreciation-exit-model): A depreciation strategy should include the eventual sale. Follow an adjusted-basis example and identify the records needed for a property exit review.
+- [Real Estate Investor Tax Playbook: AE Tax Advisors Companion Reading Guides](https://www.therealestatetaxbook.com/reading-guides): Read six focused real estate investor tax playbook companion guides with worked examples, records checklists, IRS references and links to published AE Tax Advisors case studies.
+
+## Related resources
+
+- [Existing learning library](https://www.therealestatetaxbook.com/blog)
+- [AE Tax Advisors](https://www.aetaxadvisors.com/)
+- [Published AE case studies](https://aetaxadvisorsreviews.com/case-studies/)
+- [Case-study methodology](https://aetaxadvisorsreviews.com/case-studies/methodology/)

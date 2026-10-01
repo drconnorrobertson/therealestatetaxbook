@@ -1,0 +1,116 @@
+{
+  "book": "Real Estate Investor Tax Playbook",
+  "domain": "www.therealestatetaxbook.com",
+  "case": "rental-commercial-property",
+  "intro": "Read a property tax plan in the order the facts arise: acquisition, placed-in-service evidence, depreciation, participation, annual loss limits and eventual sale. A larger paper deduction helps only when its treatment and timing fit the owner's return.",
+  "articles": [
+    [
+      "cost-segregation-current-loss-model",
+      "Cost Segregation: Model the Deduction and the Usable Loss Separately",
+      "Cost segregation changes depreciation timing, but a larger deduction is not the same as a larger current tax benefit. Follow a property example through loss usability.",
+      "A cost segregation study classifies supported property costs into the appropriate depreciation categories. Land is not depreciable, and the purchase allocation needs support before components are analyzed. Ask how the study connects to closing records, asset descriptions and the placed-in-service date. A marketing estimate is not a substitute for a completed study and a return-level model.",
+      "Compare depreciation timing with the owner's limitations",
+      "A property may generate accelerated deductions while its owner has no immediate ability to use the resulting loss. Entity basis, at-risk rules, passive activity rules and the excess business loss limit can affect the result. The depreciation model should therefore feed a second schedule showing allowed losses, suspended amounts and carryforwards. Also forecast the disposition: accelerated deductions can change adjusted basis and the character or amount of later taxable gain.",
+      "Assume a rental has $45,000 of income before depreciation and a supported depreciation computation produces $180,000 of deductions. The preliminary tax loss is $135,000. If the applicable passive activity rules suspend the full loss, the current benefit from that loss is not $135,000 multiplied by a marginal tax rate. Compare the actual carryforward outcome with the study cost, future income and planned sale. The example assumes the depreciation calculation is valid without specifying an accelerated depreciation percentage.",
+      [
+        "Reconcile closing costs, land and depreciable basis.",
+        "Retain study support and asset classifications.",
+        "Model all owner-level loss limits.",
+        "Compare current benefit, carryforward and sale effects."
+      ],
+      "Does cost segregation guarantee a W-2 offset?",
+      "No. The owner must satisfy the applicable participation and loss rules, and other limits may still restrict the deduction.",
+      "publications/p946"
+    ],
+    [
+      "short-term-rental-participation-records",
+      "Short-Term Rental Participation: What the Records Need to Show",
+      "A short guest stay does not by itself establish a deductible nonpassive loss. This guide separates rental classification, material participation and supporting records.",
+      "Start with the activity classification. Average customer use and the services provided can affect whether an activity is treated as a rental activity for passive activity purposes. The average period of use is a tax calculation, not simply the maximum stay advertised on a booking platform. Retain reservation-level records and distinguish actual occupancy from blocked calendar dates.",
+      "Test material participation after classifying the activity",
+      "An activity outside the rental definition may still be passive if the taxpayer does not materially participate. The applicable tests depend on the facts. Compare the owner's qualifying work with work performed by a manager, cleaners and other people where the selected test requires that comparison. Investor-type tasks may not count the same way as operational work. Keep credible contemporaneous records rather than constructing a year-end total from memory.",
+      "An owner logs 120 hours operating a property and a manager logs 160 hours. The owner should not claim a test requiring more participation than any other individual merely because the owner passed 100 hours. A different material participation test could be relevant, but it needs its own evidence. Even if the activity becomes nonpassive, basis, at-risk and excess business loss review can remain necessary before a loss offsets other income.",
+      [
+        "Compute average stay from actual bookings.",
+        "Document the nature of guest services.",
+        "Track owner tasks and qualifying hours.",
+        "Identify other participants and the exact test used."
+      ],
+      "Is a seven-day average stay enough to offset salary?",
+      "Short stays can affect classification, but material participation and other loss limitations still need review. Classification alone does not establish the offset.",
+      "publications/p925"
+    ],
+    [
+      "rental-loss-excess-business-loss-2026",
+      "Rental Losses and the 2026 Excess Business Loss Threshold",
+      "A nonpassive rental loss can still be limited under Section 461(l). See how the 2026 threshold fits a large real estate depreciation deduction.",
+      "A property plan often begins with depreciation and participation, then stops before the personal return limitation. That misses an important final step. Section 461(l) applies to eligible business losses of noncorporate taxpayers. Confirm whether the rental activity is a trade or business for this purpose and apply the earlier applicable restrictions before computing the excess business loss. The calculation aggregates eligible businesses instead of granting a separate threshold to each property.",
+      "Keep the 2026 threshold separate from the 2025 amount",
+      "For 2026 the threshold is $256,000 for nonjoint filers and $512,000 for joint filers. W-2 wages are excluded from business income in the excess business loss computation. A taxpayer may therefore have substantial salary and still carry forward part of an otherwise allowable business loss. The disallowed excess becomes an NOL carryforward; it does not use the same release rules as a passive activity loss.",
+      "Assume a single filer has a $400,000 eligible rental business loss after the earlier limitations and $70,000 of eligible income from another business. Net eligible business loss is $330,000. With the $256,000 threshold, the simplified excess is $74,000. Additional salary does not change those business inputs. The $74,000 is not a guaranteed next-year deduction because future NOL limitations and taxable income still matter.",
+      [
+        "Confirm trade or business treatment.",
+        "Apply basis, at-risk and passive restrictions first.",
+        "Include other eligible businesses in the calculation.",
+        "Keep NOL and passive carryforward schedules distinct."
+      ],
+      "Can I get a separate threshold for every rental LLC?",
+      "No. The limitation is calculated at the noncorporate taxpayer level across eligible businesses, not independently for each LLC.",
+      "pub/irs-drop/rp-25-32.pdf"
+    ],
+    [
+      "rental-repair-capital-improvement-file",
+      "Rental Repairs or Improvements: Build the File Before Claiming a Deduction",
+      "A contractor invoice can include deductible repairs and capital improvements. Learn how to document the work, costs and treatment before filing a rental return.",
+      "The size of an invoice does not alone decide whether a cost is a repair or an improvement. Review what the work changed, the relevant unit of property and whether it creates a betterment, restoration or adaptation. A project called maintenance in a vendor description may still include capital work. Conversely, a recurring repair should not automatically be capitalized just because several expenses were paid at once.",
+      "Separate the project into supported components",
+      "Keep the scope of work, photographs, invoices and reasons for the chosen treatment. Replacement of a major building component requires a different analysis from repairing a limited defect. Available safe harbors and elections have their own eligibility and procedural requirements. Do not treat an election as retroactive permission to deduct an unsupported project. Depreciable improvements need their own placed-in-service records and appropriate recovery treatment.",
+      "A landlord pays one $38,000 invoice covering minor leak repairs, a substantial roof replacement and repainting after the roof work. The invoice total is not a single tax category. Request a cost breakdown and analyze the relationship between the repainting and improvement work. Record any capital amount separately from deductible repair costs and retain the reasoning so a future sale model can use the correct adjusted basis.",
+      [
+        "Request detailed invoices and project scope.",
+        "Identify the building system or unit affected.",
+        "Evaluate improvement standards and applicable elections.",
+        "Record capital assets and service dates separately."
+      ],
+      "Is every cost under a chosen dollar amount deductible?",
+      "No. Safe harbor treatment depends on applicable requirements and elections. A dollar amount alone does not settle all repair and improvement questions.",
+      "businesses/small-businesses-self-employed/tangible-property-final-regulations"
+    ],
+    [
+      "placed-in-service-rental-evidence",
+      "Rental Placed-in-Service Dates: Evidence Beyond the Closing Statement",
+      "Buying a property and placing it in service are different events. Build an evidence file that supports when depreciation begins for a rental asset.",
+      "A closing statement proves acquisition, but it does not prove that the property was ready and available for its income-producing use. A newly purchased building may need repairs, approvals or essential equipment before it is available for rent. Record the actual operational timeline instead of assigning the closing date to every asset. Furnishings and later improvements can have different service dates from the building.",
+      "Show readiness and availability for the intended use",
+      "Depreciation generally begins when property is placed in service. For a rental, document when it was ready and available for rent, including completed required work, permits where relevant and leasing or booking availability. An actual first tenant can be helpful evidence but is not the only fact. Personal use and mixed-use periods require separate review, and the selected depreciation method must match the asset and applicable rules.",
+      "An investor closes on November 8, completes essential repairs on December 12 and makes a habitable unit available for rent on December 15. The first tenant moves in January. The review focuses on December readiness and availability, not an automatic November or January date. If furnishings arrive in January, their own service timeline may differ. Preserve completion invoices, listing records and availability evidence to support the conclusion.",
+      [
+        "Retain acquisition and renovation timelines.",
+        "Document required approvals and readiness.",
+        "Save dated rental availability evidence.",
+        "Assign service dates by asset or improvement."
+      ],
+      "Does the first rent payment establish the service date?",
+      "It is relevant evidence, but the analysis considers when the property was ready and available for its intended income-producing use.",
+      "publications/p527"
+    ],
+    [
+      "rental-sale-depreciation-exit-model",
+      "Rental Property Sale Planning: Depreciation and the Exit Model",
+      "A depreciation strategy should include the eventual sale. Follow an adjusted-basis example and identify the records needed for a property exit review.",
+      "The sale price minus the original purchase price is not a complete taxable gain calculation. Depreciation, capital improvements, selling costs and other basis adjustments matter. A cost segregation strategy can make the asset history more detailed because separate components may have different tax character. Keep the original study and depreciation schedules instead of relying on the current balance sheet.",
+      "Separate gain calculation from gain character",
+      "Begin with amount realized and adjusted basis, then analyze character and applicable depreciation-related rules. Debt payoff affects cash received but does not operate as a general deduction from taxable gain. Suspended passive losses require their own disposition review, including whether the transaction meets the applicable full-disposition requirements. A gain model should also include state treatment and estimated payments rather than only an assumed federal capital gain rate.",
+      "A property has $900,000 of starting tax basis, $80,000 of capital additions and $260,000 of depreciation. Simplified adjusted basis is $720,000. A $1,100,000 sale with $60,000 of selling costs yields $1,040,000 before other adjustments, producing $320,000 of preliminary gain. The outstanding loan changes closing cash but not this simplified gain computation. Next classify the gain and test any suspended losses. The illustration does not establish a tax rate or final liability.",
+      [
+        "Reconcile original basis and capital improvements.",
+        "Retain accumulated depreciation by asset.",
+        "Separate debt payoff from gain computation.",
+        "Model gain character, suspended losses and state tax."
+      ],
+      "Will all sale gain use one capital gain rate?",
+      "Not necessarily. Depreciation-related rules and asset character can create different treatment. Review the components rather than applying one rate to the full gain.",
+      "publications/p544"
+    ]
+  ]
+}
