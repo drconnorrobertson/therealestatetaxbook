@@ -44,5 +44,6 @@
       "Model purchases, renovations, and dispositions."
     ]
   ],
-  "generated": false
+  "generated": false,
+  "outputDirectory": "dist"
 }
