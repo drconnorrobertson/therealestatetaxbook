@@ -1,0 +1,7 @@
+fictional_asset,event,date_label,scope_note
+Home,Closing,August1,acquisition event
+Home,Ready and available assumed,August21,requires actual supporting facts
+Home,First occupancy,September10,not automatically the only date
+Appliance,Delivery,September1,not installation
+Appliance,Ready for intended use assumed,September5,item-specific facts
+Appliance,First use,September10,separate event
