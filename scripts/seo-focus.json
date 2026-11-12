@@ -1,0 +1,22 @@
+{
+  "title": "Real Estate Tax Book: Rentals, Records & Sales | AE Tax",
+  "description": "Explore the AE real estate tax book with companion guides on rental participation records, depreciation and sale planning.",
+  "heading": "Read the property story from purchase through sale",
+  "intro": "Use the book and companion resources to connect participation records, depreciation history and the planned exit.",
+  "links": [
+    {
+      "href": "/reading-guides/short-term-rental-participation-records",
+      "label": "Organize participation records"
+    },
+    {
+      "href": "/reading-guides/rental-sale-depreciation-exit-model",
+      "label": "Review depreciation and the exit"
+    },
+    {
+      "href": "/resources/switching-cpa-rental-portfolio-tax-record-handoff",
+      "label": "Prepare a portfolio record handoff"
+    }
+  ],
+  "buildCommand": "node scripts/production-build.cjs && node scripts/practical-homepage.cjs dist && node scripts/brand-check.mjs dist",
+  "outputDirectory": "dist"
+}
