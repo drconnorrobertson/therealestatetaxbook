@@ -1,5 +1,5 @@
 {
-  "cleanUrls": true,
+  "cleanUrls": false,
   "headers": [
     {
       "source": "/css/(.*)",
@@ -933,9 +933,812 @@
       "permanent": true
     },
     {
+      "source": "/blog/depreciation-implementation/index.html",
+      "destination": "/blog/depreciation-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/interest-expense-mistakes/index.html",
+      "destination": "/blog/interest-expense-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/property-basis-implementation/index.html",
+      "destination": "/blog/property-basis-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/section-1031-examples/index.html",
+      "destination": "/blog/section-1031-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/section-1031-implementation/index.html",
+      "destination": "/blog/section-1031-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/short-term-rental-tax-red-flags/index.html",
+      "destination": "/blog/short-term-rental-tax-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/real-estate-entities-scorecard/index.html",
+      "destination": "/blog/real-estate-entities-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/cost-segregation-implementation/index.html",
+      "destination": "/blog/cost-segregation-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/repairs-vs-improvements-mistakes/index.html",
+      "destination": "/blog/repairs-vs-improvements-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/short-term-rental-tax-advanced/index.html",
+      "destination": "/blog/short-term-rental-tax-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/interest-expense-scorecard/index.html",
+      "destination": "/blog/interest-expense-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/section-1031-advanced/index.html",
+      "destination": "/blog/section-1031-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/section-1031-scorecard/index.html",
+      "destination": "/blog/section-1031-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/property-basis-checklist/index.html",
+      "destination": "/blog/property-basis-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/property-basis-questions/index.html",
+      "destination": "/blog/property-basis-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/depreciation-red-flags/index.html",
+      "destination": "/blog/depreciation-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/repairs-vs-improvements-implementation/index.html",
+      "destination": "/blog/repairs-vs-improvements-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/real-estate-entities-faq/index.html",
+      "destination": "/blog/real-estate-entities-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/repairs-vs-improvements-examples/index.html",
+      "destination": "/blog/repairs-vs-improvements-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/depreciation-mistakes/index.html",
+      "destination": "/blog/depreciation-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/short-term-rental-tax-implementation/index.html",
+      "destination": "/blog/short-term-rental-tax-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/repairs-vs-improvements-checklist/index.html",
+      "destination": "/blog/repairs-vs-improvements-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/property-sale-checklist/index.html",
+      "destination": "/blog/property-sale-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/short-term-rental-tax-mistakes/index.html",
+      "destination": "/blog/short-term-rental-tax-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/depreciation-checklist/index.html",
+      "destination": "/blog/depreciation-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/interest-expense-red-flags/index.html",
+      "destination": "/blog/interest-expense-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/passive-losses-faq/index.html",
+      "destination": "/blog/passive-losses-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/short-term-rental-tax-checklist/index.html",
+      "destination": "/blog/short-term-rental-tax-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/property-sale-faq/index.html",
+      "destination": "/blog/property-sale-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/cost-segregation-checklist/index.html",
+      "destination": "/blog/cost-segregation-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/passive-losses-red-flags/index.html",
+      "destination": "/blog/passive-losses-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/property-basis-advanced/index.html",
+      "destination": "/blog/property-basis-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/passive-losses-questions/index.html",
+      "destination": "/blog/passive-losses-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/property-sale-implementation/index.html",
+      "destination": "/blog/property-sale-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/depreciation-faq/index.html",
+      "destination": "/blog/depreciation-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/passive-losses-checklist/index.html",
+      "destination": "/blog/passive-losses-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/property-sale-mistakes/index.html",
+      "destination": "/blog/property-sale-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/passive-losses-examples/index.html",
+      "destination": "/blog/passive-losses-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/cost-segregation-scorecard/index.html",
+      "destination": "/blog/cost-segregation-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/short-term-rental-tax-examples/index.html",
+      "destination": "/blog/short-term-rental-tax-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/interest-expense-questions/index.html",
+      "destination": "/blog/interest-expense-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/cost-segregation-questions/index.html",
+      "destination": "/blog/cost-segregation-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/interest-expense-checklist/index.html",
+      "destination": "/blog/interest-expense-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/real-estate-entities-checklist/index.html",
+      "destination": "/blog/real-estate-entities-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/depreciation-scorecard/index.html",
+      "destination": "/blog/depreciation-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/cost-segregation-mistakes/index.html",
+      "destination": "/blog/cost-segregation-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/short-term-rental-tax-questions/index.html",
+      "destination": "/blog/short-term-rental-tax-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/property-sale-red-flags/index.html",
+      "destination": "/blog/property-sale-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/property-basis-scorecard/index.html",
+      "destination": "/blog/property-basis-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/depreciation-examples/index.html",
+      "destination": "/blog/depreciation-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/property-sale-questions/index.html",
+      "destination": "/blog/property-sale-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/property-sale-advanced/index.html",
+      "destination": "/blog/property-sale-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/cost-segregation-advanced/index.html",
+      "destination": "/blog/cost-segregation-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/property-basis-faq/index.html",
+      "destination": "/blog/property-basis-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/passive-losses-scorecard/index.html",
+      "destination": "/blog/passive-losses-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/repairs-vs-improvements-questions/index.html",
+      "destination": "/blog/repairs-vs-improvements-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/property-sale-examples/index.html",
+      "destination": "/blog/property-sale-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/passive-losses-mistakes/index.html",
+      "destination": "/blog/passive-losses-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/property-sale-scorecard/index.html",
+      "destination": "/blog/property-sale-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/property-basis-red-flags/index.html",
+      "destination": "/blog/property-basis-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/interest-expense-faq/index.html",
+      "destination": "/blog/interest-expense-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/section-1031-checklist/index.html",
+      "destination": "/blog/section-1031-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/property-basis-mistakes/index.html",
+      "destination": "/blog/property-basis-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/repairs-vs-improvements-scorecard/index.html",
+      "destination": "/blog/repairs-vs-improvements-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/interest-expense-advanced/index.html",
+      "destination": "/blog/interest-expense-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/real-estate-entities-examples/index.html",
+      "destination": "/blog/real-estate-entities-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/real-estate-entities-implementation/index.html",
+      "destination": "/blog/real-estate-entities-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/cost-segregation-examples/index.html",
+      "destination": "/blog/cost-segregation-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/section-1031-mistakes/index.html",
+      "destination": "/blog/section-1031-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/section-1031-red-flags/index.html",
+      "destination": "/blog/section-1031-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/cost-segregation-faq/index.html",
+      "destination": "/blog/cost-segregation-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/interest-expense-implementation/index.html",
+      "destination": "/blog/interest-expense-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/cost-segregation-red-flags/index.html",
+      "destination": "/blog/cost-segregation-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/passive-losses-implementation/index.html",
+      "destination": "/blog/passive-losses-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/section-1031-questions/index.html",
+      "destination": "/blog/section-1031-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/repairs-vs-improvements-advanced/index.html",
+      "destination": "/blog/repairs-vs-improvements-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/short-term-rental-tax-scorecard/index.html",
+      "destination": "/blog/short-term-rental-tax-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/short-term-rental-tax-faq/index.html",
+      "destination": "/blog/short-term-rental-tax-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/depreciation-advanced/index.html",
+      "destination": "/blog/depreciation-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/real-estate-entities-red-flags/index.html",
+      "destination": "/blog/real-estate-entities-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/depreciation-questions/index.html",
+      "destination": "/blog/depreciation-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/repairs-vs-improvements-red-flags/index.html",
+      "destination": "/blog/repairs-vs-improvements-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/real-estate-entities-advanced/index.html",
+      "destination": "/blog/real-estate-entities-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/property-basis-examples/index.html",
+      "destination": "/blog/property-basis-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/interest-expense-examples/index.html",
+      "destination": "/blog/interest-expense-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/real-estate-entities-questions/index.html",
+      "destination": "/blog/real-estate-entities-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/repairs-vs-improvements-faq/index.html",
+      "destination": "/blog/repairs-vs-improvements-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/real-estate-entities-mistakes/index.html",
+      "destination": "/blog/real-estate-entities-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/section-1031-faq/index.html",
+      "destination": "/blog/section-1031-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/passive-losses-advanced/index.html",
+      "destination": "/blog/passive-losses-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/index.html",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/about.html",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/blog/index.html",
+      "destination": "/blog",
+      "permanent": true
+    },
+    {
+      "source": "/blog/cost-segregation-field-guide/index.html",
+      "destination": "/blog/cost-segregation-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/depreciation-field-guide/index.html",
+      "destination": "/blog/depreciation-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/interest-expense-field-guide/index.html",
+      "destination": "/blog/interest-expense-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/passive-losses-field-guide/index.html",
+      "destination": "/blog/passive-losses-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/posts/1031-exchange-rules-rental-property-2026.html",
+      "destination": "/blog/posts/1031-exchange-rules-rental-property-2026",
+      "permanent": true
+    },
+    {
+      "source": "/blog/posts/bonus-depreciation-rental-properties-2026.html",
+      "destination": "/blog/posts/bonus-depreciation-rental-properties-2026",
+      "permanent": true
+    },
+    {
+      "source": "/blog/posts/cost-segregation-airbnb.html",
+      "destination": "/blog/posts/cost-segregation-airbnb",
+      "permanent": true
+    },
+    {
+      "source": "/blog/posts/passive-activity-loss-rules-rental-real-estate-2026.html",
+      "destination": "/blog/posts/passive-activity-loss-rules-rental-real-estate-2026",
+      "permanent": true
+    },
+    {
+      "source": "/blog/posts/real-estate-professional-status-guide.html",
+      "destination": "/blog/posts/real-estate-professional-status-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/posts/str-tax-loophole-explained.html",
+      "destination": "/blog/posts/str-tax-loophole-explained",
+      "permanent": true
+    },
+    {
+      "source": "/blog/property-basis-field-guide/index.html",
+      "destination": "/blog/property-basis-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/property-sale-field-guide/index.html",
+      "destination": "/blog/property-sale-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/real-estate-entities-field-guide/index.html",
+      "destination": "/blog/real-estate-entities-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/repairs-vs-improvements-field-guide/index.html",
+      "destination": "/blog/repairs-vs-improvements-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/section-1031-field-guide/index.html",
+      "destination": "/blog/section-1031-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/short-term-rental-tax-field-guide/index.html",
+      "destination": "/blog/short-term-rental-tax-field-guide",
+      "permanent": true
+    },
+    {
+      "source": "/editorial-policy/index.html",
+      "destination": "/editorial-policy",
+      "permanent": true
+    },
+    {
+      "source": "/publisher/index.html",
+      "destination": "/publisher",
+      "permanent": true
+    },
+    {
+      "source": "/reading-guides/index.html",
+      "destination": "/reading-guides",
+      "permanent": true
+    },
+    {
+      "source": "/reading-guides/cost-segregation-current-loss-model/index.html",
+      "destination": "/reading-guides/cost-segregation-current-loss-model",
+      "permanent": true
+    },
+    {
+      "source": "/reading-guides/placed-in-service-rental-evidence/index.html",
+      "destination": "/reading-guides/placed-in-service-rental-evidence",
+      "permanent": true
+    },
+    {
+      "source": "/reading-guides/rental-loss-excess-business-loss-2026/index.html",
+      "destination": "/reading-guides/rental-loss-excess-business-loss-2026",
+      "permanent": true
+    },
+    {
+      "source": "/reading-guides/rental-repair-capital-improvement-file/index.html",
+      "destination": "/reading-guides/rental-repair-capital-improvement-file",
+      "permanent": true
+    },
+    {
+      "source": "/reading-guides/rental-sale-depreciation-exit-model/index.html",
+      "destination": "/reading-guides/rental-sale-depreciation-exit-model",
+      "permanent": true
+    },
+    {
+      "source": "/reading-guides/short-term-rental-participation-records/index.html",
+      "destination": "/reading-guides/short-term-rental-participation-records",
+      "permanent": true
+    },
+    {
+      "source": "/resources/index.html",
+      "destination": "/resources",
+      "permanent": true
+    },
+    {
+      "source": "/resources/rental-records-by-property/index.html",
+      "destination": "/resources/rental-records-by-property",
+      "permanent": true
+    },
+    {
+      "source": "/resources/rental-tax-deduction-vs-cash-flow/index.html",
+      "destination": "/resources/rental-tax-deduction-vs-cash-flow",
+      "permanent": true
+    },
+    {
+      "source": "/site-map/index.html",
+      "destination": "/site-map",
+      "permanent": true
+    },
+    {
+      "source": "/consultation-preparation/index.html",
+      "destination": "/consultation-preparation",
+      "permanent": true
+    },
+    {
+      "source": "/library/index.html",
+      "destination": "/library",
+      "permanent": true
+    },
+    {
+      "source": "/ecosystem/index.html",
+      "destination": "/ecosystem",
+      "permanent": true
+    },
+    {
+      "source": "/editorial-standards/index.html",
+      "destination": "/editorial-standards",
+      "permanent": true
+    },
+    {
+      "source": "/resources/choosing-tax-advisor-business-owner-rental-property/index.html",
+      "destination": "/resources/choosing-tax-advisor-business-owner-rental-property",
+      "permanent": true
+    },
+    {
+      "source": "/resources/inherited-rental-property-tax-review-before-sale/index.html",
+      "destination": "/resources/inherited-rental-property-tax-review-before-sale",
+      "permanent": true
+    },
+    {
+      "source": "/resources/switching-cpa-rental-portfolio-tax-record-handoff/index.html",
+      "destination": "/resources/switching-cpa-rental-portfolio-tax-record-handoff",
+      "permanent": true
+    },
+    {
       "source": "/:path([^/].*)/",
       "destination": "/:path",
       "permanent": true
+    }
+  ],
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/about",
+      "destination": "/about.html"
+    },
+    {
+      "source": "/blog",
+      "destination": "/blog/index.html"
+    },
+    {
+      "source": "/blog/cost-segregation-field-guide",
+      "destination": "/blog/cost-segregation-field-guide/index.html"
+    },
+    {
+      "source": "/blog/depreciation-field-guide",
+      "destination": "/blog/depreciation-field-guide/index.html"
+    },
+    {
+      "source": "/blog/interest-expense-field-guide",
+      "destination": "/blog/interest-expense-field-guide/index.html"
+    },
+    {
+      "source": "/blog/passive-losses-field-guide",
+      "destination": "/blog/passive-losses-field-guide/index.html"
+    },
+    {
+      "source": "/blog/posts/1031-exchange-rules-rental-property-2026",
+      "destination": "/blog/posts/1031-exchange-rules-rental-property-2026.html"
+    },
+    {
+      "source": "/blog/posts/bonus-depreciation-rental-properties-2026",
+      "destination": "/blog/posts/bonus-depreciation-rental-properties-2026.html"
+    },
+    {
+      "source": "/blog/posts/cost-segregation-airbnb",
+      "destination": "/blog/posts/cost-segregation-airbnb.html"
+    },
+    {
+      "source": "/blog/posts/passive-activity-loss-rules-rental-real-estate-2026",
+      "destination": "/blog/posts/passive-activity-loss-rules-rental-real-estate-2026.html"
+    },
+    {
+      "source": "/blog/posts/real-estate-professional-status-guide",
+      "destination": "/blog/posts/real-estate-professional-status-guide.html"
+    },
+    {
+      "source": "/blog/posts/str-tax-loophole-explained",
+      "destination": "/blog/posts/str-tax-loophole-explained.html"
+    },
+    {
+      "source": "/blog/property-basis-field-guide",
+      "destination": "/blog/property-basis-field-guide/index.html"
+    },
+    {
+      "source": "/blog/property-sale-field-guide",
+      "destination": "/blog/property-sale-field-guide/index.html"
+    },
+    {
+      "source": "/blog/real-estate-entities-field-guide",
+      "destination": "/blog/real-estate-entities-field-guide/index.html"
+    },
+    {
+      "source": "/blog/repairs-vs-improvements-field-guide",
+      "destination": "/blog/repairs-vs-improvements-field-guide/index.html"
+    },
+    {
+      "source": "/blog/section-1031-field-guide",
+      "destination": "/blog/section-1031-field-guide/index.html"
+    },
+    {
+      "source": "/blog/short-term-rental-tax-field-guide",
+      "destination": "/blog/short-term-rental-tax-field-guide/index.html"
+    },
+    {
+      "source": "/editorial-policy",
+      "destination": "/editorial-policy/index.html"
+    },
+    {
+      "source": "/publisher",
+      "destination": "/publisher/index.html"
+    },
+    {
+      "source": "/reading-guides",
+      "destination": "/reading-guides/index.html"
+    },
+    {
+      "source": "/reading-guides/cost-segregation-current-loss-model",
+      "destination": "/reading-guides/cost-segregation-current-loss-model/index.html"
+    },
+    {
+      "source": "/reading-guides/placed-in-service-rental-evidence",
+      "destination": "/reading-guides/placed-in-service-rental-evidence/index.html"
+    },
+    {
+      "source": "/reading-guides/rental-loss-excess-business-loss-2026",
+      "destination": "/reading-guides/rental-loss-excess-business-loss-2026/index.html"
+    },
+    {
+      "source": "/reading-guides/rental-repair-capital-improvement-file",
+      "destination": "/reading-guides/rental-repair-capital-improvement-file/index.html"
+    },
+    {
+      "source": "/reading-guides/rental-sale-depreciation-exit-model",
+      "destination": "/reading-guides/rental-sale-depreciation-exit-model/index.html"
+    },
+    {
+      "source": "/reading-guides/short-term-rental-participation-records",
+      "destination": "/reading-guides/short-term-rental-participation-records/index.html"
+    },
+    {
+      "source": "/resources",
+      "destination": "/resources/index.html"
+    },
+    {
+      "source": "/resources/rental-records-by-property",
+      "destination": "/resources/rental-records-by-property/index.html"
+    },
+    {
+      "source": "/resources/rental-tax-deduction-vs-cash-flow",
+      "destination": "/resources/rental-tax-deduction-vs-cash-flow/index.html"
+    },
+    {
+      "source": "/site-map",
+      "destination": "/site-map/index.html"
+    },
+    {
+      "source": "/consultation-preparation",
+      "destination": "/consultation-preparation/index.html"
+    },
+    {
+      "source": "/library",
+      "destination": "/library/index.html"
+    },
+    {
+      "source": "/ecosystem",
+      "destination": "/ecosystem/index.html"
+    },
+    {
+      "source": "/editorial-standards",
+      "destination": "/editorial-standards/index.html"
+    },
+    {
+      "source": "/resources/choosing-tax-advisor-business-owner-rental-property",
+      "destination": "/resources/choosing-tax-advisor-business-owner-rental-property/index.html"
+    },
+    {
+      "source": "/resources/inherited-rental-property-tax-review-before-sale",
+      "destination": "/resources/inherited-rental-property-tax-review-before-sale/index.html"
+    },
+    {
+      "source": "/resources/switching-cpa-rental-portfolio-tax-record-handoff",
+      "destination": "/resources/switching-cpa-rental-portfolio-tax-record-handoff/index.html"
     }
   ]
 }
