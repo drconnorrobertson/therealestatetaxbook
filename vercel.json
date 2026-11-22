@@ -29,7 +29,7 @@
       ]
     }
   ],
-  "buildCommand": "node scripts/seo-production.cjs",
+  "buildCommand": "node scripts/seo-production.cjs && python3 scripts/verify-faq-content.py dist",
   "outputDirectory": "dist",
   "redirects": [
     {
