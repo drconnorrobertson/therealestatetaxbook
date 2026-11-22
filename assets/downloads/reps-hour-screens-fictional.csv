@@ -1,0 +1,5 @@
+Fictional case,Assumed qualifying hours,Other business personal services hours,Total personal services hours,Over 750 hours,More than half,Screen only
+A,750,200,950,No,Yes,Fails over750; no eligibility determination
+B,751,751,1502,Yes,No,Exactlyhalf; no eligibility determination
+C,900,600,1500,Yes,Yes,Numerical screen only; participation and eligibility assumed for inputs
+D,900,,,Yes,,Unknown other hours; not zero
